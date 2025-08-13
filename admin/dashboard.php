@@ -145,7 +145,6 @@ $recent_posts = $stmt->fetchAll(PDO::FETCH_ASSOC);
                         <h5 class="text-white mb-0">
                         <img src="../assets/sm-logo.png" alt="">
                         </h5>
-                        <small class="text-muted">Admin Panel</small>
                     </div>
                     
                     <nav class="nav flex-column mt-3">
