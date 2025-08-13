@@ -143,7 +143,7 @@ $recent_posts = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <div class="admin-sidebar">
                     <div class="p-3 border-bottom border-secondary">
                         <h5 class="text-white mb-0">
-                            <i class="fas fa-code me-2"></i>TechVision Pro
+                        <img src="../assets/sm-logo.png" alt="">
                         </h5>
                         <small class="text-muted">Admin Panel</small>
                     </div>
